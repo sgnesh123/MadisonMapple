@@ -20,7 +20,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.cs407.myapplication.domain.roommates.RoommateViewModel
 import com.cs407.myapplication.ui.profile.UserProfile
 
 /* ---------------------------------------------------------

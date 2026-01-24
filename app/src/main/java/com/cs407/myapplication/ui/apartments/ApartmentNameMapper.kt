@@ -18,6 +18,4 @@ object ApartmentNameMapper {
     }
 
     fun getAllDisplayNames(): List<String> = nameMap.keys.toList()
-
-    fun getAllDatabaseNames(): List<String> = nameMap.values.toList()
 }

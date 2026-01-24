@@ -1,16 +1,9 @@
-package com.cs407.myapplication.domain.profile
+package com.cs407.myapplication.ui.profile
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.cs407.myapplication.data.profile.ProfileRepository
 import com.cs407.myapplication.ui.auth.AuthManager
-import com.cs407.myapplication.ui.profile.PartyingFrequency
-import com.cs407.myapplication.ui.profile.ProfileUiState
-import com.cs407.myapplication.ui.profile.RoomTypePreference
-import com.cs407.myapplication.ui.profile.SleepTime
-import com.cs407.myapplication.ui.profile.StudyHabits
-import com.cs407.myapplication.ui.profile.UserProfile
-import com.cs407.myapplication.ui.profile.WakeUpTime
 import com.google.firebase.auth.EmailAuthProvider
 import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException
 import com.google.firebase.firestore.ktx.firestore

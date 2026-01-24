@@ -24,7 +24,6 @@ import androidx.compose.ui.unit.dp
 import com.cs407.myapplication.R
 import com.cs407.myapplication.ui.components.Apartment
 import androidx.compose.ui.text.style.TextAlign
-import kotlinx.coroutines.launch
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.cs407.myapplication.data.apartments.local.db.ApartmentDatabase
 import com.cs407.myapplication.data.apartments.repository.ApartmentRepository
@@ -416,4 +415,3 @@ fun SearchBar(
         )
     )
 }
-
