@@ -1,4 +1,4 @@
-# 🏠 Madison Mapple
+# Madison Mapple
 
 **Madison Mapple** is an Android app for UW-Madison students to browse off-campus apartments, view locations on a map, compare pricing, and find prospective roommates.
 
@@ -21,14 +21,14 @@ Madison Mapple helps students:
 
 ## ✨ Key Features
 
-- 🗺️ Interactive Apartment Map (Google Maps)
-- 🏢 Apartment Listings & Detailed Views
-- 👥 Roommate Browsing
-- 🔐 Firebase Authentication (UW email)
-- 💬 AI Chat Assistant
-- 🧑 User Profile Management
-- 🗃️ Local Storage with Room
-- ⚡ Modern UI with Jetpack Compose
+- Interactive Apartment Map (Google Maps)
+- Apartment Listings & Detailed Views
+- Roommate Browsing
+- Firebase Authentication (UW email)
+- AI Chat Assistant
+- User Profile Management
+- Local Storage with Room
+- Modern UI with Jetpack Compose
 
 
 ## ⚙️ Architecture
@@ -38,7 +38,7 @@ Madison Mapple helps students:
 - Use of **Android Architecture Components** (ViewModel, LiveData)
 
 
-## 🔌	Integrations
+## 🔌 Integrations
 
 - **Firebase** for authentication and analytics
 - **Google Gemini API** for AI-powered chat assistance
@@ -558,3 +558,4 @@ MadisonMapple/
 		</blockquote>
 	</details>
 </details>
+
